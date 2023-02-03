@@ -1,4 +1,4 @@
-![Header](https://github.com/BabichRostislav/BabichRostislav/blob/main/ASSETS/222222.jpg) 
+![Header](https://github.com/BabichRostislav/BabichRostislav/blob/main/ASSETS/python.png) 
 
 About me
 
