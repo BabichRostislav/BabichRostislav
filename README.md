@@ -8,10 +8,10 @@
 
 
 ### Favourite courses
-- ["Python Generation": a course for beginners](https://stepik.org/course/58852/syllabus)
-- ["Python Generation": a course for advanced](https://stepik.org/course/68343/syllabus)
-- ["Python Generation": a course for professionals](https://stepik.org/course/82541/syllabus)
-- [Interactive SQL Simulator](https://stepik.org/course/63054/syllabus)
+- ["Python Generation": a course for beginners](https://stepik.org/course/58852)
+- ["Python Generation": a course for advanced](https://stepik.org/course/68343)
+- ["Python Generation": a course for professionals](https://stepik.org/course/82541)
+- [Interactive SQL Simulator](https://stepik.org/course/63054)
 
 ### Social Networks
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/RostislavDSP)
