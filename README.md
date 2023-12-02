@@ -16,5 +16,3 @@
 
 ### Social Networks 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/RostislavDSP)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/ros_rostovskiy)
-[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=DC143C)](https://www.instagram.com/ros_rostovskiy)
