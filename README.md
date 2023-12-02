@@ -10,6 +10,7 @@
 [![Celery](https://img.shields.io/badge/Celery-090909?style=for-the-badge&logo=Celery&logoColor=00BFFF)](https://docs.celeryq.dev/en/stable/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=00BFFF)](https://fastapi.tiangolo.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=00BFFF)](https://www.sqlite.org/index.html)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-090909?style=for-the-badge&logo=SQLAlchemy&logoColor=00BFFF)](https://www.sqlalchemy.org/)
 
 
 ### Favourite courses 😌
