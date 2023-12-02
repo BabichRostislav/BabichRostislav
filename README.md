@@ -7,6 +7,7 @@
 [![Sql](https://img.shields.io/badge/Sql-090909?style=for-the-badge&logo=mySql&logoColor=FFFF00)](https://skillbox.ru/media/code/chto-takoe-sql-kak-ustroen-zachem-nuzhen-i-kak-s-nim-rabotat/) 
 [![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=00BFFF)](https://www.docker.com/)
 [![PostgreSql](https://img.shields.io/badge/PostgreSql-090909?style=for-the-badge&logo=PostgreSql&logoColor=00BFFF)](https://www.postgresql.org/)
+[![Celery](https://img.shields.io/badge/Celery-090909?style=for-the-badge&logo=Celery&logoColor=00BFFF)](https://docs.celeryq.dev/en/stable/)
 
 
 ### Favourite courses 😌
