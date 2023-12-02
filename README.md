@@ -17,3 +17,5 @@
 
 ### Social Networks 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27AOD9)](https://t.me/RostislavDSP)
+[![GitLab](https://img.shields.io/badge/GitLab-090909?style=for-the-badge&logo=GitLab&logoColor=27AOD9)](https://gitlab.com/BabichRostislav)
+
