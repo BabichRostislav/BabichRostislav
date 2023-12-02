@@ -8,6 +8,7 @@
 [![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=00BFFF)](https://www.docker.com/)
 [![PostgreSql](https://img.shields.io/badge/PostgreSql-090909?style=for-the-badge&logo=PostgreSql&logoColor=00BFFF)](https://www.postgresql.org/)
 [![Celery](https://img.shields.io/badge/Celery-090909?style=for-the-badge&logo=Celery&logoColor=00BFFF)](https://docs.celeryq.dev/en/stable/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=00BFFF)](https://fastapi.tiangolo.com/)
 
 
 ### Favourite courses 😌
