@@ -10,6 +10,7 @@
 [![Celery](https://img.shields.io/badge/Celery-0e1117?style=for-the-badge&logo=Celery&logoColor=b6de64)](https://docs.celeryq.dev/en/stable/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0e1117?style=for-the-badge&logo=FastAPI&logoColor=069486)](https://fastapi.tiangolo.com/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0e1117?style=for-the-badge&logo=SQLAlchemy&logoColor=d61f00)](https://www.sqlalchemy.org/)
+[![Git](https://img.shields.io/badge/Git-0e1117?style=for-the-badge&logo=Git&logoColor=fb4e27)](https://git-scm.com/)
 
 
 
