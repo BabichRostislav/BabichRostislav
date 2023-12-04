@@ -4,14 +4,14 @@
 
 ### Languages and Tools 
 [![Python](https://img.shields.io/badge/Python-0e1117?style=for-the-badge&logo=python&logoColor=00BFFF)](https://www.python.org/)
-[![Sql](https://img.shields.io/badge/Sql-090909?style=for-the-badge&logo=mySql&logoColor=00BFFF)](https://skillbox.ru/media/code/chto-takoe-sql-kak-ustroen-zachem-nuzhen-i-kak-s-nim-rabotat/) 
-[![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=00BFFF)](https://www.docker.com/)
-[![PostgreSql](https://img.shields.io/badge/PostgreSql-090909?style=for-the-badge&logo=PostgreSql&logoColor=336790)](https://www.postgresql.org/)
-[![Celery](https://img.shields.io/badge/Celery-090909?style=for-the-badge&logo=Celery&logoColor=00BFFF)](https://docs.celeryq.dev/en/stable/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=00BFFF)](https://fastapi.tiangolo.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=00BFFF)](https://www.sqlite.org/index.html)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-090909?style=for-the-badge&logo=SQLAlchemy&logoColor=00BFFF)](https://www.sqlalchemy.org/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-090909?style=for-the-badge&logo=Pydantic&logoColor=00BFFF)](https://docs.pydantic.dev/latest/)
+[![Sql](https://img.shields.io/badge/Sql-0e1117?style=for-the-badge&logo=mySql&logoColor=00BFFF)](https://skillbox.ru/media/code/chto-takoe-sql-kak-ustroen-zachem-nuzhen-i-kak-s-nim-rabotat/) 
+[![Docker](https://img.shields.io/badge/Docker-0e1117?style=for-the-badge&logo=docker&logoColor=00BFFF)](https://www.docker.com/)
+[![PostgreSql](https://img.shields.io/badge/PostgreSql-0e1117?style=for-the-badge&logo=PostgreSql&logoColor=336790)](https://www.postgresql.org/)
+[![Celery](https://img.shields.io/badge/Celery-0e1117?style=for-the-badge&logo=Celery&logoColor=00BFFF)](https://docs.celeryq.dev/en/stable/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0e1117?style=for-the-badge&logo=FastAPI&logoColor=00BFFF)](https://fastapi.tiangolo.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-0e1117?style=for-the-badge&logo=SQLite&logoColor=00BFFF)](https://www.sqlite.org/index.html)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0e1117?style=for-the-badge&logo=SQLAlchemy&logoColor=00BFFF)](https://www.sqlalchemy.org/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-0e1117?style=for-the-badge&logo=Pydantic&logoColor=00BFFF)](https://docs.pydantic.dev/latest/)
 
 
 ### Favourite courses 😌
